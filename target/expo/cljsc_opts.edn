@@ -1,0 +1,1 @@
+{:output-to "target/expo/not-used.js", :main "env.expo.main", :output-dir "target/expo", :optimizations :none, :source-map-timestamp true}
